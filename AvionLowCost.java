@@ -64,5 +64,12 @@ public class PruebaLowCost extends Prueba {
 		mostrar(segunda);
 	}	
 	
-	
+	public void crear(){
+	super.crear();
+	}
+
+	/*Un intento de seguir el trabajo usando el super para 
+ 	llamar a la clase padre de Avion.java, 
+ 	pero no se que hay que hacer en el ejercicio*/
+		
 }
